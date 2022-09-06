@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @lan-wj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lan-wj/lan-wj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{date.DATA}}
+城市:{{city.DATA}
+天气:{weather.DATA}
+最低气温:{{min_temperature.DATA}}
+最高气温:{{max_temperature.DATA}}
+今天是我们认识的第{{meet_day.DATA}}天
+今天距离中秋节的第{{festival_day.DATA}}天
+{{birthday_message.DATA}}
+{tone_talk.DATA}}--{{talk_from.DATA}}
+{{note_en.DATA}
+{{note_ch.DATA}
